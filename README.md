@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there👋, 
+
+- 💳 My name is Nathan alias Bobninou!
 - 🔭 I’m currently working on my own discord bot for my gmod family on Kobralost RolePlay
 - 🌱 I’m currently learning JavaScript and Glua
 - 📫 How to reach me? Simple! On discord: Bobinou#0030
+- 🤩 Very interested by Garry's mod. Sometimes I dream about cheese...
 <!--
 **Bobninou0030/Bobninou0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
