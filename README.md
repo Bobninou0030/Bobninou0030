@@ -2,6 +2,7 @@
 
 - 💳 My name is Nathan alias Bobninou!
 - 🔭 I’m currently working on my own discord bot for my gmod family on [Kobralost RolePlay](https://github.com/KB-RolePlay)
+- 🔭 I’m currently developer on my friend gmod project [StoryLife RolePlay](https://discord.gg/storylife)
 - 🌱 I’m currently learning JavaScript and Glua
 - 📫 How to reach me? Simple! On discord: Bobinou#0030 (Now bobninou)
 - 🤩 Very interested by Garry's mod. Sometimes I dream about cheese...
@@ -19,10 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://metrics.lecoq.io/about/extremlapin"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/extremlapin"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-<br />
-
-<a href="https://metrics.lecoq.io/about/extremlapin"><img src="metrics-languages.svg" align="center" width="75%"></img></a>
-
-![](https://komarev.com/ghpvc/?username=ExtReMLapin)
